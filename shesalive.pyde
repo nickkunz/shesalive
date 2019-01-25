@@ -6,7 +6,7 @@ def setup():
     strokeWeight(1)
     noFill()
     
-# general axis references (not used for curve control points)
+    # general axis references (not used for curve control points)
     alist = [0, 100, 200, 300, 400, 500, 600, 700, 800]
     
     # right eyebrow
